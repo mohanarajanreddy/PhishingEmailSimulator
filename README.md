@@ -57,8 +57,8 @@ phishing_simulator/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/thirusudar03092003/phishing_simulator.git
-cd phishing_simulator
+git clone https://github.com/mohanarajanreddy/PhishingEmailSimulator.git
+cd PhishingEmailSimulator
 ```
 
 2. Create a virtual environment and activate it:
@@ -177,7 +177,7 @@ This tool is intended for educational and security awareness training purposes o
 
 ## About the Developer
 
-Developed by Thiru Sudar S L, a B.Tech AI & DS student at Velammal Engineering College, Ambattur. This project demonstrates skills in cybersecurity, web development, and software engineering.
+Developed by Mohanarajan Reddy, a B.Tech AI & DS student at Velammal Engineering College, Ambattur. This project demonstrates skills in cybersecurity, web development, and software engineering.
 
 ## License
 
